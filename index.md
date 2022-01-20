@@ -1,0 +1,51 @@
+---
+layout: default
+title: Home
+---
+<p class="message">
+  Thanks for wanting to get to know me a bit better! I am a third year student at the University of Toronto (St. George campus) specializing in statistics and minoring in both math and computer science. I’ve recently grown to like machine learning and the statistics behind the models. Furthermore, I’ve had a deep interest in quantitative finance for about a year now, devoting a lot of time and energy into learning concepts used within the industry. My goal is to get my PhD in statistics, however I don’t believe my future is set in stone, and I’m always willing to try new things.
+
+
+</p>
+
+
+You can check me out on:
+
+* [Github](https://github.com/Vincentcchu)
+* [LinkedIn](https://www.linkedin.com/in/vincentsmcchu/)
+
+---
+
+## Education
+
+**University of Toronto, St. George** | Toronto, Ontario
+
+(Hopefully) Specializing in the Theory and Methods of Statistics | September 2020 - Present
+
+(Hopefully) Minoring in Computer Science | September 2020 - Present
+
+
+---
+
+
+## Experience
+
+**PredictNow.ai** | Consultant/Intern | April 2021 - Present
+
+**Goldfinch STA** | Intern | November 2017 - August 2019 & May 2021 - Present
+
+**Vision Martial Arts** | Assistant Instructor | November 2017 - October 2020
+
+
+---
+
+
+
+## Personal Projects
+
+**00100100** | Developer/Programmer | May 2021 - Present
+
+**R6S Talent League** | North American Director | October 2019 - January 2021
+
+**R6S Premier Play** | Founder | June 2016 - December 2019
+
