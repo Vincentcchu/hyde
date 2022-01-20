@@ -1,27 +1,19 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
 
-
-plugins:
-  - jekyll-gist
-
-whitelist:
-  - jekyll-gist
 
 # Permalinks
 permalink:        pretty
 
 # Setup
 title:            Vincent Chu
-description:      'U of T | Class of 2022'
+description:      'U of T  -   Class of 2022'
 baseurl:          /
 
 author:
   name:           'Vincent Chu'
   url:            https://github.com/Vincentcchu
 
-paginate:         5
 
 # Custom vars
 version:          2.1.0

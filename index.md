@@ -18,11 +18,22 @@ You can check me out on:
 
 ## Education
 
-**University of Toronto, St. George** | Toronto, Ontario
+<div class="line">
+    <p class="line-left">University of Toronto, St. George</p>
+    <p class="line-right">Toronto, Ontario</p>
+</div>
 
-(Hopefully) Specializing in the Theory and Methods of Statistics | September 2020 - Present
+<div class="line">
+    <p class="line-left">Specializing in the Theory and Methods of Statistics</p>
+    <p class="line-right">September 2020 - Present</p>
+</div>
 
-(Hopefully) Minoring in Computer Science | September 2020 - Present
+<div class="line">
+    <p class="line-left">Minoring in Computer Science</p>
+    <p class="line-right">September 2020 - Present</p>
+</div>
+
+
 
 
 ---
