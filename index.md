@@ -62,12 +62,16 @@ You can check me out on:
     <p class="line-left">Minoring in Computer Science</p>
     <p class="line-right">September 2020 - Present</p>
 </div> -->
-* **Academics :** GPA: 3.52, Major's GPA: 3.8, Dean's List
-    * **Academics :** GPA: 3.52, Major's GPA: 3.8, Dean's List
-
+* **Academics :** cGPA: 3.52/4.0, Major's GPA: 3.8/4.0, Dean's List
+* **Relevant Courses:** Methods of Data Analysis, Corporate Finance, Machine Learning, Financial Risk Management, Surveys, Sampling and Observational Data
 
 ---
 
+## Personal Skills
+**Technical:** Java, Python, R, Stata, SQL, Tableau, Machine Learning, Web Scraping, Microsoft Office applications
+**Languages:** Fluent in English, Cantonese, and Mandarin
+
+---
 
 ## Experiences
 
@@ -79,13 +83,13 @@ You can check me out on:
 
 **Uforse Education Group** | Mathematics Tutor | October 2018 - Present
 
-**UT Footprint Publications** | Director of Public Relations | October 2018 - Present
+**UT Footprint Publications** | Director of Public Relations | September 2019 - April 2021
 
-**Royal & Sun Alliance (RSA) Case Competition** | Participant | October 2018 - Present
+**Royal & Sun Alliance (RSA) Case Competition** | Participant | Feburary 2019
 
-**RCFTA TechTrade Algorithmic Trading Competition** | Participant | October 2018 - Present
+**RCFTA TechTrade Algorithmic Trading Competition** | Participant | October 2020
 
-**CBS Case Competition** | Participant | October 2018 - Present
+**CBS Case Competition** | Participant | March 2019
 
 
 
@@ -98,11 +102,18 @@ You can check me out on:
 
 **Predicting the 2025 Canadian Federal Election** | Co-author | November 2021
 
+Using a census dataset and a survey dataset to constrcut a multilevel model with post-stratification to predcit the winner of the popular vote of the 2025 Federal Election. The survey data serves as a sample and contains information about voters preferences and their characteristics. The model is build on the servey data and then post-stratified onto the census data to draw the concludsion that the conservative are the most likely to win the popular vote in the 2025 Federal Election.
+
 **Covid Uncertainty Index: Using news and sentiments in news to predict market movement** | October 2021
 
-<!-- maybe include a short description for the projects and a link -->
+The goal of this project to is determine whether news sentiment and frequency of COVID being mentioned in news has predictive power on the stock market. I gathered news headlines using by webscraping using Selenium and Python. Performed topic modelling is then to insight of text data on specific new topics to build a dictionary in order to identify COVID related news titles. Using the dictionary created and Natural Language Processing techniques to create "COVID-19 uncertainty index" and  "News sentiment index". These two indexes have a value of correlation of ~0.1 and ~0.07 with the S&P500.
 
 **Unmasking Covid Misinformation** | Founder | December 2021
 
-<!-- is Covid just another flu with a simple data analysis -->
+This report aims to debunk the myth that COVID is just another flu using a straightforward and easy to understand statistical method called Difference in Difference. This report found that the death count data across different provinces in Canada follows very similar trends. Which makes the provinces within the Atlantic Bubble a perfect source to be used to estimate the counterfactual of death in other provinces. The idea is that since the provinces withing the Atlatic Bubble have prolonged period of 0 cases of COVID-19, the difference in trend in difference provines can be contributed to the introduction of COVID-19. The difference in death count were founded to be statistically significant when comparing the provinces in the Atlantic Bubble and other provinces.
 
+
+
+<p class="message">
+links for projects write up coming soon
+</p>
