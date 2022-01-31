@@ -69,6 +69,7 @@ You can check me out on:
 
 ## Personal Skills
 **Technical:** Java, Python, R, Stata, SQL, Tableau, Machine Learning, Web Scraping, Microsoft Office applications
+
 **Languages:** Fluent in English, Cantonese, and Mandarin
 
 ---
