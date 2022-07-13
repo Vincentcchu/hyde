@@ -6,7 +6,7 @@ title: Home
 ## Introduction
 
 <p class="message">
-Welcome to my website, my name is Vincent. If you want to learn more about me, you are in the right place! I am currently in my final year of studies in my undergraduate degree at the University of Toronto, double majoring in statistics and economics. As you can tell with my program of choice, I am very interested in working with data. Recognizing the rapid expansion of the global datasphere, I have also picked up Machine Learning(ML). The aspect of ML that I find especially interesting is its ability to process text data, since that is something that traditional algorithms are not capable of. It is always intriguing to see what unexpected relationships can be explored with data.For this reason, I believe that this is what I want my career to be about, as there are so many interesting not yet discovered relationships that I can apply in business settings and hopefully create some impacts.
+Welcome to my website, my name is Vincent. If you want to learn more about me, you are in the right place! I am an incoming business analyst at a fintech start-up called Accelex. Currently, I am in my final year of studies in my undergraduate degree at the University of Toronto, double majoring in statistics and economics. As you can tell with my program of choice, I am very interested in working with data. Recognizing the rapid expansion of the global datasphere, I have also picked up Machine Learning(ML). The aspect of ML that I find especially interesting is its ability to process text data, since that is something that traditional algorithms are not capable of. It is always intriguing to see what unexpected relationships can be explored with data. For this reason, I believe that this is what I want my career to be about, as there are so many interesting not yet discovered relationships that I can apply in business settings and hopefully create some impacts.
 
 
 
@@ -116,7 +116,7 @@ Using a census dataset and a survey dataset to construct a multilevel model with
 
 
 
-**Covid Uncertainty Index: Using news and sentiments in news to predict market movement**| Author | In Progress
+**Covid Uncertainty Index: Using news and sentiments in news to predict market movement**| Author | December 2021
 
 The goal of this project is to determine whether news sentiments and frequency of COVID-19 being mentioned in the news has predictive power on the stock market. I gathered news headlines by webscraping using Selenium and Python.  Topic modelling is then performed to gain insight of text data on specific new topics to build a dictionary in order to identify COVID-19 related news titles. Using the dictionary created and Natural Language Processing techniques to create the "COVID-19 uncertainty index" and the "News sentiment index". I found that these two indexes have a value of correlation of ~0.1 and ~0.07 with the S&P500.
 
