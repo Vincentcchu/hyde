@@ -6,7 +6,7 @@ title: Home
 ## Introduction
 
 <p class="message">
-Welcome to my website, my name is Vincent. If you want to learn more about me, you are in the right place! I am an incoming business analyst at a fintech start-up called Accelex. Currently, I am in my final year of studies in my undergraduate degree at the University of Toronto, double majoring in statistics and economics. As you can tell with my program of choice, I am very interested in working with data. Recognizing the rapid expansion of the global datasphere, I have also picked up Machine Learning(ML). The aspect of ML that I find especially interesting is its ability to process text data, since that is something that traditional algorithms are not capable of. It is always intriguing to see what unexpected relationships can be explored with data. For this reason, I believe that this is what I want my career to be about, as there are so many interesting not yet discovered relationships that I can apply in business settings and hopefully create some impacts.
+Welcome to my website! My name is Vincent, and I'm delighted to have you here. If you're interested in learning more about me, you've come to the right place. I pursued my education in statistics and economics at the University of Toronto. Currently, I work as a data scientist at Accelex, a fintech start-up. At Accelex, we empower investors in the private market by automating their data extraction processes. Our advanced parser engine utilizes machine vision and natural language processing techniques, along with seamlessly integrated data pipelines, to streamline the flow of investment data. With my background as a former business analyst on the product team, I possess a cross-team perspective that provides me with valuable domain knowledge. This understanding, coupled with my expertise in data science, empowers me to develop tailored solutions that precisely meet our users' needs. Moreover, this domain knowledge equips me with the ability to anticipate and proactively address potential challenges during the development of our parser stack.
 
 
 
@@ -62,13 +62,13 @@ You can check me out on:
     <p class="line-left">Minoring in Computer Science</p>
     <p class="line-right">September 2020 - Present</p>
 </div> -->
-* **Academics :** cGPA: 3.52/4.0, Major's GPA: 3.8/4.0, Dean's List
-* **Relevant Courses:** Methods of Data Analysis, Corporate Finance, Machine Learning, Financial Risk Management, Surveys, Sampling and Observational Data
+* **Academics :** cGPA: 3.6/4.0, High Distinction
+* **Relevant Courses:** Methods of Data Analysis, Corporate Finance, Machine Learning, Financial Risk Management, ML Application in Macro Finance
 
 ---
 
 ## Personal Skills
-**Technical:** Java, Python, R, Stata, SQL, Tableau, Machine Learning, Web Scraping, Microsoft Office applications
+**Technical:** Python, R, Excel, SQL, AWS, Databricks, Linux, Machine Learning, Web Scraping, Microsoft Office Applications
 
 **Languages:** Fluent in English, Cantonese, and Mandarin
 
@@ -78,11 +78,15 @@ You can check me out on:
 
 <!-- Maybe add description here too  -->
 
-**University of Toronto, Department of Economics** | Research Assisstant | September 2021 - Present
+**Accelex Technology Limited** | Data Scientist | May 2023 - Present
+
+**Accelex Technology Limited** | Business Analyst, Product | May 2022 - April 2023
+
+**University of Toronto, Department of Economics** | Research Assisstant | September 2021 - December 2022
 
 **Newton Wong & Associates** | Academic Legal Researcher | October 2020 -  April 2021
 
-**Uforse Education Group** | Mathematics Tutor | October 2018 - Present
+**Uforse Education Group** | Mathematics Tutor | October 2018 - December 2022
 
 **UT Footprint Publications** | Director of Public Relations | September 2019 - April 2021
 
